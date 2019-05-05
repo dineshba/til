@@ -5,7 +5,7 @@
 - [Misc](#misc)
 
 ### Misc
-- [Stdout vs Stderr]()
+- [Stdout vs Stderr](Stdout_vs_Stderr.md)
 - [base64 encoding why and how](base64_encoding_why_and_how.md)
 
 
