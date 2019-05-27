@@ -13,3 +13,4 @@
 - [base64 encoding why and how](misc/base64_encoding_why_and_how.md)
 - [Golang struct with reference types](misc/Golang_struct_with_reference_types.md)
 - [Shell variables vs Environment variables](misc/shell_variables_vs_environment_variables.md)
+- [Partial Index in DB](misc/Partial_Index_in_DB.md)
