@@ -14,3 +14,4 @@
 - [Golang struct with reference types](misc/Golang_struct_with_reference_types.md)
 - [Shell variables vs Environment variables](misc/shell_variables_vs_environment_variables.md)
 - [Partial Index in DB](misc/Partial_Index_in_DB.md)
+- [Host Based routing vs Path Based routing](misc/Host_Based_routing_vs_Path_Based_routing.md)
