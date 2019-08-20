@@ -119,7 +119,7 @@ $ tkill
 - lazy-connect
 - may be your tool
 
-> replace `grep` with `rg` for better experience
+> replace grep with [rg](https://github.com/BurntSushi/ripgrep) for better experience
 
 #### Summary:
 **Wherever** we want **search and select one/many from a list**, then we can **use fzf**. So the options to use is limitless. If you are **using fzf in a different way**, please **raise an issue or a PR here** so that we can learn that. Thanks.
