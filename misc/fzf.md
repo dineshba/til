@@ -35,7 +35,7 @@ vim $(fzf --preview 'cat {}')
 
 ##### To kill a process:
 ```bash
-kill -9 + TAB
+kill + TAB
 ```
 
 > Note: Think about the normal way. We have to ps aux to list processes and grep the required process then copy the correct column for pid, then call kill. Here just one step.
