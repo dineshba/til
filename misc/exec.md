@@ -28,3 +28,7 @@ echo 'Hi' 1>&2   # will not get printed (as output -> error -> null)
 exec 1>/dev/null # redirect output stream of current process to null (output -> null)
 echo 'Hi' # will not get printed (as output -> null)
 ```
+
+### Links
+- [https://unix.stackexchange.com/questions/374008/what-does-do-in-the-middle-of-exec-dev-null](https://unix.stackexchange.com/questions/374008/what-does-do-in-the-middle-of-exec-dev-null)
+- [https://www.computerhope.com/unix/bash/exec.htm](https://www.computerhope.com/unix/bash/exec.htm)
