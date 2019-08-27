@@ -16,3 +16,4 @@
 - [Partial Index in DB](misc/Partial_Index_in_DB.md)
 - [Host Based routing vs Path Based routing](misc/Host_Based_routing_vs_Path_Based_routing.md)
 - [FZF](misc/fzf.md)
+- [Exec command](misc/exec.md)
